@@ -349,8 +349,7 @@ body {
 		font-size: 1.8rem;
 	}
 	.other__members {
-		display: flex;
-		flex-direction: column;
+		grid-template-columns: none;
 	}
 	.awards {
 		display: flex;
