@@ -1,0 +1,23 @@
+{
+  "name": "tributepage",
+  "version": "1.0.0",
+  "description": "Freddie Mercury Tribute Page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rituraj26/Freddie-Mercury-Tribute-Page.git"
+  },
+  "keywords": [
+    "freddie",
+    "mercury"
+  ],
+  "author": "Rituraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rituraj26/Freddie-Mercury-Tribute-Page/issues"
+  },
+  "homepage": "https://github.com/Rituraj26/Freddie-Mercury-Tribute-Page#readme"
+}
